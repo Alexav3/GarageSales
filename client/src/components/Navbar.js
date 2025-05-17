@@ -32,16 +32,16 @@ function Navbar() {
           </li>
           <li>
             <Link to="/sales" onClick={closeMenu}>
-              Garage Sales
+              Shop Now
             </Link>
           </li>
           <li>
-            <Link to="/Sign in" onClick={closeMenu}>
+            <Link to="/signin" onClick={closeMenu}>
               Sign in
             </Link>
           </li>
           <li>
-            <Link to="/about" onClick={closeMenu}>
+            <Link to="/signup" onClick={closeMenu}>
               Sign up
             </Link>
           </li>
